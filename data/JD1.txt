@@ -1,0 +1,51 @@
+About the job
+We’re reinventing the market research industry. Let’s reinvent it together.
+
+At Numerator, we believe tomorrow’s success starts with today’s market intelligence. We empower the world’s leading brands and retailers with unmatched insights into consumer behavior and the influencers that drive it.
+
+Numerator is seeking a Sr. Data Scientist to join our growing Data team. This is a unique opportunity with an established and rapidly evolving platform that handles massive amounts of proprietary data where you, as a data scientist, will have end-to-end influence to impact an entire industry with innovative, quality data. In this position, you will be responsible for taking on new initiatives to discover, research, build, enhance, automate, maintain, and scale data science services in a dynamic environment where data is the language of our business.
+
+As a team member, you will make an immediate impact as you help build and expand our data science technology and services across several SaaS products and internal data science systems. This is a fast-paced role with high visibility, impact, and growth, where you and your team will drive many of the decisions for new projects from inception through production.
+
+This data scientist position is a highly-autonomous, product-focused role designed to create value and drive impact across the Product organization while influencing our company’s evolution and strategic direction. The position is cross-functional by nature. Our data scientists collaborate with the Product team to gather insights into customer needs and then work closely with our internal data and engineering teams to ensure the effective delivery of data-driven solutions that have a meaningful impact. That impact can span across developing data products, defining analytics methodologies, researching various subject areas, and driving top-line growth and bottom-line efficiencies through building new offerings. The ideal candidate is a seasoned data scientist with diversified experiences, who's held various positions within analytics or engineering functions delivering live, production data science services. Since a significant requirement for this role is to understand, author, and deploy production code, the ideal candidate should be experienced and foundationally rooted in applied statistics, working alongside software data engineers to apply best practices for algorithms and technical design patterns to process large quantities of data.
+
+What You'll Do:
+
+Perform as a Sr. Data Scientist by leading execution and technical planning within the organization and team, along with mentoring other Data Scientists 
+Ideate and implement discoveries to build new product features & data products, and improve existing methodologies & algorithms 
+Collaborate across Product, Data, and Engineering teams to identify, investigate, integrate and deliver solutions related to back-end and front-end data services 
+Lead and deliver complex projects involving data and statistical modeling (e.g. sampling, forecasting, segmentation, classification, predictive modeling, etc.) 
+Regularly communicate outcomes, new initiatives and improvements, etc. to stakeholders 
+Serve as a data science subject matter expert for both internal and external stakeholders 
+
+What You'll Bring to Numerator
+
+BS or PhD in Mathematics, Statistics, Computer Science, Economics, Physics, or other behavioral and/or equivalent quantitative science 
+5+ years of industry experience as a data scientist (or equivalent role/work) with a BS in the above mentioned areas, or 2+ years of industry experience with a PhD in a quantitative field 
+Leadership experience as a manager or mentor or team lead 
+Proficiency in Python and SQL 
+Written and verbal communication skills with experience in communicating complex concepts to a non-technical audience; enjoy data storytelling via presentations, articles, reports across various stakeholders 
+Experience with defining key product metrics, setting team goals, and building internal tools to monitor progress against KPIs 
+Conduct and analyze complex survey/panel data, including developing data files, conducting quality reviews, data editing, documentation, weighting, and imputation 
+
+Nice to haves:
+
+Experience in the CPG/FMCG/retail industry or hands-on with user-level purchase data for marketing/behavioral insights 
+Experience with developing, deploying, and maintaining back-end production code in cloud environments with technologies like AWS, Airflow, SageMaker, etc 
+Proven track record of delivering solutions to a production environment 
+Solid understanding of SQL and relational databases (e.g., Snowflake, MySQL, Postgres, etc.), and experience using normalized and denormalized data architectures 
+Experience with agile methodologies, e.g., estimating & scoping open-ended data science work to help Product hone in on requirements and business value 
+Experience with understanding, analyzing, and modeling user data and behavioral trends 
+Enthusiasm for identifying and pursuing new business and product opportunities; unleashing creativity & innovation in a team environment 
+
+What We Offer:
+
+An inclusive and collaborative company culture - we work in an open, transparent environment to get things done and adapt to the changing needs as they come 
+An opportunity to have an impact in a technologically data-driven company that’s changing the market research industry and getting rave reviews 
+Ownership of data solutions 
+Market-competitive total compensation package 
+Volunteer time off and charitable donation matching 
+Strong support for career growth, including mentorship programs, leadership training, access to conferences and employee resources groups 
+Regular hackathons to build your own projects and Engineering and Data Science Lunch and Learns 
+
+Great benefits package including health/vision/dental, unlimited PTO, flexible schedule, internally quiet focus time, recharge days, 401K matching, travel reimbursement, and more

@@ -1,0 +1,34 @@
+About the job
+Synopsis of the role:  
+
+Do you have a passion for being at the forefront of Data Science innovation and building cutting edge, scalable analytical solutions? Are you a tech savvy individual looking for an exciting, dynamic role to grow your career fast with one of the largest global data analytics and technology companies? Do you want to create new products and push business forward enabling Canadians to live their financial best? If you are a leader in designing & developing Machine Learning solutions blending science, art & business logic and unlocking the power of data to solve complex business problems, we would love to hear from you!
+
+As the Data scientist within the Data & Analytics team at Equifax Canada, you will be critical to driving Data Science innovation, working closely with the rest of the Canadian Equifax Data Science & Insights team and the Data Science community internationally. You will partner with peers, internal stakeholders and external clients to deliver state of the art decision science models & attributes that leverage Equifax’s vast data assets. These include decision areas covering the credit lifecycle, geodemographic & marketing attributes, ratings & fraud models, as well as any new areas where data driven decision making can be informed by predictive modeling including advanced modeling techniques and machine learning. You will extract the data you need, support redesigning data modeling processes, create new algorithms and predictive models the business needs, and lead analysis of the data and sharing insights with peers.
+
+  What you will do:  
+
+ For the first 3 months you will learn our data, our technologies, our platform and work on exciting projects to support our advanced analytics team 
+ You will develop new tools, advanced analytical techniques and products 
+ You will work alongside our product teams to build detailed requirements and plans for new product development 
+ You will work on the development of new scoring and modelling solutions through the development of predictive models leveraging core data science techniques and newer AI technologies and algorithms 
+ You will effectively communicate analytical results to key stakeholders using strong data visualizations, superior presentation skills and business language to emphasize the “so what” of any analysis performed. 
+ You will ensure quality control of all analytical output. 
+
+  What experience you will need:  
+
+You don’t have to tick all of the bullets below, but some of the following would be essential:
+
+ 2+ years’ data science experience with strong knowledge of Python, SQL, R or SAS in a large data environment. 
+ 2+ years’ experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks. 
+ 2+ years’ proven hands-on experience designing, building and implementing analytical solutions to solve real world problems, with limited direct supervision required. 
+ 1+ years’ experience building models with the best packages including scikit learn, XGBoost, Tensorflow, PyTorch, Transformers. 
+ Bachelor’s or advanced degree in a quantitative discipline such as Engineering, Economics, Mathematics, Statistics, or Physics is essential 
+
+  What could set you apart (nice to have skills):  
+
+ A background in financial services, credit, telecommunications or utilities. 
+ Experience working with credit or fraud data and Experience in leadership and mentorship 
+ Experience with development and deployment of models in a cloud based environment such as AWS or GCP is preferred 
+ Familiarity with MLOps practices and tools for model deployment, monitoring, and versioning (e.g., MLflow, Kubeflow, SageMaker, Vertex AI) would be highly beneficial 
+ Proficiency with Git/GitHub/GitLab for collaborative code development. 
+ Master’s level degree in a business-related field/MBA.
