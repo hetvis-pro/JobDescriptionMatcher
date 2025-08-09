@@ -100,6 +100,15 @@ Then open http://localhost:8501 in your browser.
 
 ## 📷 Screenshots
 
+1)Tab 1 (Upload Resume & Job Description):
+![alt text](screenshots/Tab1.png)
+2)Tab 2 (Skill Match Results):
+![alt text](screenshots/Tab2.png)
+3)Tab 3(GenAI-Based Scoring):
+![alt text](screenshots/Tab3.png)
+4)Tab 4(💬 Chat with Your Resume & JD):
+![alt text](screenshots/Tab4.png)
+
 ---
 
 ## 🌍 Deployment
