@@ -111,16 +111,6 @@ Then open http://localhost:8501 in your browser.
 
 ---
 
-## 🌍 Deployment
-
-Local: Works with your own API key
-
-Cloud: Deployable to Streamlit Cloud, AWS EC2, or Docker
-
-Persistent Data: FAISS index & skill list stored locally or on cloud storage
-
----
-
 ## ⚠️ Limitations
 
 📄 PDF Extraction Quality: Scanned/poorly formatted PDFs may affect accuracy
