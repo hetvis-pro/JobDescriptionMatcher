@@ -9,4 +9,4 @@ resume_text = parse_resume("/data/attorney-resume-example.pdf")
 jd_text = parse_jd("/data/JD3.txt")
 
 similarity = get_cosine_similarity(resume_text, jd_text)
-print(f"🔍 Cosine Similarity Score: {similarity * 100:.2f}%")
+print(f"Cosine Similarity Score: {similarity * 100:.2f}%")
