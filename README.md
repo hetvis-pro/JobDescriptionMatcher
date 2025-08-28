@@ -113,13 +113,13 @@ Then open http://localhost:8501 in your browser.
 
 ## ⚠️ Limitations
 
-📄 PDF Extraction Quality: Scanned/poorly formatted PDFs may affect accuracy
+<!-- 📄 PDF Extraction Quality: Scanned/poorly formatted PDFs may affect accuracy -->
 
 📉 Skill Coverage: Depends on skill list provided in skills.json
 
 🧠 LLM Cost & Latency: GenAI scoring requires API calls (cost & time factor)
 
-🔒 API Key Security: Must be securely stored in environment variables
+<!-- 🔒 API Key Security: Must be securely stored in environment variables -->
 
 ---
 
